@@ -1,0 +1,4 @@
+/Users/chenpengyu/Desktop/data_driven/week2/obj/Debug/data_driven.csprojAssemblyReference.cache
+/Users/chenpengyu/Desktop/data_driven/week2/obj/Debug/data_driven.csproj.CoreCompileInputs.cache
+/Users/chenpengyu/Desktop/data_driven/week2/obj/Debug/week2.dll
+/Users/chenpengyu/Desktop/data_driven/week2/obj/Debug/week2.pdb
